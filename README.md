@@ -16,5 +16,3 @@ Pilha : é do tipo FILO (first in, last out). A pilha sequencial guarda um vetor
 Fila : é do tipo FIFO (first in, first out). A fila sequencial guarda um vetor de tamanho fixo e a fila dinamica guarda um vetor que está alocado dinâmicamente na memória.
 
 ABB (arvore binaria de busca): A arvore guarda os numeros menores do lado esquerdo e os maiores do lado direito. 
-
-Testando o Vscode web
